@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 # Nicholas's First CS193 Homework
-## Some of my favorite things about CS193:
+### Some of my favorite things about CS193:
 
 
 - informational
